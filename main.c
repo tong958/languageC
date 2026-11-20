@@ -1,8 +1,5 @@
-#include<stdio.h>
-
-int main(){
-    printf("Hello Git!\n");
-    printf("这是我对main分支说的话：你好\n");
+#include <stdio.h>
+int main() {
+    printf("这是 main 分支的话\n");
     return 0;
 }
-    printf("这是feature分支说的话：2+2=4\n");
