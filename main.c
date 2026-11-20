@@ -2,6 +2,6 @@
 
 int main(){
     printf("Hello Git!\n");
-    printf("我是分支里新增的功能！");
+    printf("这是我对main分支说的话：你好\n");
     return 0;
 }
