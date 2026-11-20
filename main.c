@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    printf("hello git!\n");
+    printf("Hello Git!\n");
+    printf("我是分支里新增的功能！");
     return 0;
 }
